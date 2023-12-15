@@ -1,0 +1,39 @@
+install extensions :
+prettier 
+vscode-icons
+live server
+
+
+to validate HTML code:
+validator.w3.org 
+
+abreviations tags:
+
+href - Hiper Text Reference
+hr - horisontal ruller
+em - emphasizes
+ol - ordered list
+ul - unordered list
+dl - description list
+dt - description term
+dd - description details
+tr - table row
+td - table data
+img:
+loading="lazy" // to content bellow the main
+loading="eager"// to content in the main
+
+placeholder:
+loremipsum.io
+via.placeholder.com/640x360
+
+
+
+aria-label: to indentify the wich nav of the page
+
+table:
+rowspan="2"
+colspan="2"
+
+comentar várias linhas
+alt+shift+a

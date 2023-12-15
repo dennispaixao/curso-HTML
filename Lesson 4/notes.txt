@@ -1,0 +1,12 @@
+install extensions :
+prettier 
+vscode-icons
+live server
+
+
+to validate HTML code:
+validator.w3.org 
+
+abreviations tags:
+
+href - Hiper Text Reference
